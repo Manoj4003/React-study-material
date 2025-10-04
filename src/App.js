@@ -1,6 +1,7 @@
 
 import './App.css';
-import Advice from './Components/Miniproject/Advice';
+import UseEffects from './Components/UseEffects/UseEffect';
+// import Advice from './Components/Miniproject/Advice';
 // import Child from './Components/PropsConcept/Child';
 // import MultipleState from './Components/UseState/MultipleState';
 // import ToggleMessage from './Components/UseState/Show';
@@ -20,7 +21,8 @@ function App() {
   <ToggleMessage/>
   <MultipleState/>
   <Singlestate/> */}
-  <Advice/>
+  {/* <Advice/> */}
+  <UseEffects/>
     </div>
   );
 }
